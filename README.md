@@ -33,6 +33,8 @@ Multi-note linking and subject organization group related notes by class or proj
 
 PDF annotation tools bring the same handwriting and audio-sync capability to imported documents, letting recorded discussion of a document stay attached to the specific pages and passages it concerned.
 
+Custom paper templates and a wide color palette adapt the writing surface to the subject being studied, from grid paper for math to wide-ruled lines for language notes.
+
 Notability Professional Suite is the platform for anyone whose note-taking happens alongside spoken audio, and who wants both halves of that record to stay permanently connected.
 
 ---
